@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Santiago</h1>
-<h3 align="center">I am an engineering student at UTN</h3>
+<h1 align="center">Hola 👋, Soy Santiago</h1>
+<h3 align="center">Soy estudiante de ingenieria en Sistemas en la UTN</h3>
 
-- 🔭 I’m currently working on [4ctrl](https://github.com/SantiSabio/4ctrl)
-
-- 🌱 I’m currently learning **Ingeniería en Sistemas de Información**
+- 🔭 Actualmente estoy trabajando en [4ctrl](https://github.com/SantiSabio/4ctrl)
