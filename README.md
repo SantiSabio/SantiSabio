@@ -27,7 +27,7 @@
 - **PescadoresTV** — Gestión de contenido multimedia para pantallas: subida, organización y programación de fotos y videos.
 
 ## 📊 Estadísticas de GitHub
-![](https://github-readme-stats.shion.dev/api?username=SantiSabio&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Estadísticas](cards/github-stats.svg)<br/>
 ![](https://streak-stats.demolab.com/?user=SantiSabio&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SantiSabio&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 

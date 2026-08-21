@@ -23,3 +23,18 @@ jobs:
           BRANCH_NAME: "main"
           UTC_OFFSET: -3
           THEME: tokyonight
+
+      - name: Generar tarjeta de estadísticas históricas
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+        run: python scripts/generate_stats_card.py cards/github-stats.svg
+
+      - name: Commit y push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cards/github-stats.svg
+          git diff --cached --quiet || git commit -m "Actualizar tarjeta de estadísticas"
+          git pull --rebase origin main
+          git push
