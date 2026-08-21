@@ -7,7 +7,6 @@
 - 🔭 Actualmente desarrollo en **Planning**: sistema de gestión de órdenes de entrega de vehículos para concesionarias (Django 6 + DRF + PostgreSQL, con pantallas TV para sala de ventas)
 - 📺 También en **PescadoresTV** (Django): app de gestión de contenido multimedia para pantallas
 - 🌲 Formándome en desarrollo backend con Python
-- 💬 Pregúntame sobre Python, Django o PostgreSQL
 
 ## 🛠️ Tecnologías
 
@@ -31,9 +30,12 @@
 
 | | |
 | --- | --- |
-| ![Estadísticas de GitHub de SantiSabio](https://github-readme-stats.vercel.app/api/?username=SantiSabio&show_icons=true&locale=es&theme=tokyonight) | ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiSabio&locale=es&layout=compact&theme=tokyonight) |
+| ![Perfil](profile-summary-card-output/tokyonight/0-profile-details.svg) | ![Estadísticas](profile-summary-card-output/tokyonight/3-stats.svg) |
+| ![Lenguajes por repo](profile-summary-card-output/tokyonight/1-repos-per-language.svg) | ![Lenguajes por commit](profile-summary-card-output/tokyonight/2-most-commit-language.svg) |
 
 [![Racha de contribuciones](https://streak-stats.demolab.com/?user=SantiSabio&locale=es&theme=tokyonight)](https://git.io/streak-stats)
+
+<sub>Las tarjetas se regeneran automáticamente todos los días con un GitHub Action.</sub>
 
 ## 🤝 Conectá conmigo
 
